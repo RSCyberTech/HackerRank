@@ -2,7 +2,7 @@
 
 This repo is to share the code I submit on the **HackerRank** platform.
 
-Available at: [hackerrank.com](https://www.hackerrank.com)
+Available at: [hackerrank.com](https://www.hackerrank.com/dashboard)
 
 I am not a software developer, but as a Security Engineer I consider that writing and (as important) reading code should be something one is used to.
 
